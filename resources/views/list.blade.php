@@ -7,13 +7,13 @@
     <title>Primi Passi</title>
 </head>
 <body>
-    <header>
-        <h1>
-            <a href="hello_world">Hello World</a>
-        </h1>
-        <h1>
-            <a href="list">List</a>
-        </h1>
-    </header>
+    <ul>
+        <li>AAAAAAAAAA</li>
+        <li>AAAAAAAAAA</li>
+        <li>AAAAAAAAAA</li>
+        <li>AAAAAAAAAA</li>
+        <li>AAAAAAAAAA</li>
+        <li>AAAAAAAAAA</li>
+    </ul>
 </body>
 </html>
